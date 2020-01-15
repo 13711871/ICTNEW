@@ -4,7 +4,7 @@
 			Why Us
 		</div>
 		<div class=" text-center text-grey text-body1">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+			. 
 		</div>
 		<div class="row justify-center q-gutter-md">
 			<div class="col-md-3 col-sm-12 col-xs-12 mtt-70" v-for="(service,index) in services" :key="index">
